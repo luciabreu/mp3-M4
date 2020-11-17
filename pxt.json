@@ -1,0 +1,22 @@
+{
+    "name": "mp3 _final",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "NFC": "github:lioujj/pxt-nfc#ae4d6dba0bb60f70623b152bff874d1c575ef1e4",
+        "dfplayer": "github:lioujj/pxt-mp3#38a9b70595947ecbc0f3216e5fb746af10371bbf"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
